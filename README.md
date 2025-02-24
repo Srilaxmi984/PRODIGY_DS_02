@@ -1,4 +1,4 @@
-### Task 02: Titanic Data Analysis in Python
+### Task 02: Titanic Data Analysis
 
 
 #### 📄 Description
